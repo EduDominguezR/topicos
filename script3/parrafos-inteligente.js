@@ -10,5 +10,4 @@ for (let i = 0; i < 5; i++) {
   }
   console.log(`Párrafo ${i + 1}: ${texto}`)
   console.log(`tamaño: ${texto.length} caracteres`)
-  console.log()
 }
