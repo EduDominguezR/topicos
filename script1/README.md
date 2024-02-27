@@ -63,3 +63,5 @@ for (let i = 0; i < 10; i++) {
 body.appendChild(div)
 }
 ```
+video de referencis (markdown)
+https://www.youtube.com/watch?v=oxaH9CFpeEE
